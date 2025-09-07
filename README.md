@@ -88,5 +88,3 @@
 8. Hymn for the Weekend
 9. In My Place
 10. Paradise
-
-👉 Bro, do you want me to **write the README file fully ready in Markdown (`.md`) format** so you can directly copy-paste to GitHub, or do you want just bullet points like above?
